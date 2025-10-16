@@ -30,11 +30,24 @@ video.twimg.com
 x.com
 
 tiktok.com
-m.tiktok.com
+*.tiktok.com
 tiktokcdn.com
-v.tiktok.com
-api-h2.tiktokv.com
+*.tiktokcdn.com
 tiktokv.com
+*.tiktokv.com
+muscdn.com
+*.muscdn.com
+byteoversea.com
+*.byteoversea.com
+ibytedtos.com
+*.ibytedtos.com
+ibytedtosmaliva.com
+*.ibytedtosmaliva.com
+bytefcdn-oversea.com
+*.bytefcdn-oversea.com
+snssdk.com
+*.snssdk.com
+
 
 snapchat.com
 snapchatcdn.com
